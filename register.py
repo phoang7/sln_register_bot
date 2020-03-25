@@ -5,8 +5,9 @@ This program signs into your UW account and then tries to
 sign up for specified sln codes using a Chrome browser. 
 '''
 
-NET_ID = 'phoang7'
-PASSWORD = 'Up1Higher'
+NET_ID = 'netid'
+PASSWORD = 'netidpassword'
+# your sln codes you wish to add
 CSE_416_A = '12703'
 CSE_416_AA = '12704'
 CSE_416_AB = '12705'
