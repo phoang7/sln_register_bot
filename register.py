@@ -2,7 +2,8 @@ from selenium import webdriver
 
 '''
 This program signs into your UW account and then tries to 
-sign up for specified sln codes using a Chrome browser. 
+sign up for specified sln codes using a Chrome browser.
+Download link for a chromium webdriver (https://chromedriver.chromium.org/)
 '''
 
 NET_ID = 'netid'
